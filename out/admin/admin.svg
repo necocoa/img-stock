@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="321px" preserveAspectRatio="none" style="width:383px;height:321px;background:#FFFFFE;" version="1.1" viewBox="0 0 383 321" width="383px" zoomAndPan="magnify"><defs><filter height="300%" id="f160ce2bae16sj" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="Menlo" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="101" x="142.5" y="26.708">管理者確認!</text><rect fill="#FFFFFF" filter="url(#f160ce2bae16sj)" height="139.0977" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="159" y="104.3828"/><rect fill="#FFFFFE" filter="url(#f160ce2bae16sj)" height="102.5313" style="stroke: #000000; stroke-width: 2.0;" width="338" x="6" y="161.5156"/><rect fill="#FFFFFE" height="56.2656" style="stroke: none; stroke-width: 1.0;" width="338" x="6" y="207.7813"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="164" x2="164" y1="73.25" y2="281.0469"/><rect fill="#FEFECE" filter="url(#f160ce2bae16sj)" height="30.2969" style="stroke: #A80036; stroke-width: 1.5;" width="46" x="139" y="37.9531"/><text fill="#000000" font-family="Menlo" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="32" x="146" y="57.9482">User</text><rect fill="#FEFECE" filter="url(#f160ce2bae16sj)" height="30.2969" style="stroke: #A80036; stroke-width: 1.5;" width="46" x="139" y="280.0469"/><text fill="#000000" font-family="Menlo" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="32" x="146" y="300.042">User</text><rect fill="#FFFFFF" filter="url(#f160ce2bae16sj)" height="139.0977" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="159" y="104.3828"/><polygon fill="#A80036" points="147,100.3828,157,104.3828,147,108.3828,151,104.3828" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="3" x2="153" y1="104.3828" y2="104.3828"/><text fill="#000000" font-family="Menlo" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="65" x="10" y="99.3169">管理者か？</text><line style="stroke: #A80036; stroke-width: 1.0;" x1="169" x2="211" y1="133.5156" y2="133.5156"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="211" x2="211" y1="133.5156" y2="146.5156"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="170" x2="211" y1="146.5156" y2="146.5156"/><polygon fill="#A80036" points="180,142.5156,170,146.5156,180,150.5156,176,146.5156" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Menlo" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="195" x="176" y="128.4497">ログインユーザーが管理者か確認</text><path d="M6,161.5156 L75,161.5156 L75,168.5156 L65,178.5156 L6,178.5156 L6,161.5156 " fill="#EEEEEE" style="stroke: #000000; stroke-width: 1.0;"/><rect fill="none" height="102.5313" style="stroke: #000000; stroke-width: 2.0;" width="338" x="6" y="161.5156"/><text fill="#000000" font-family="Menlo" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="24" x="21" y="174.5825">alt</text><text fill="#000000" font-family="Menlo" font-size="11" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="80" x="90" y="173.7261">[ログイン状態]</text><polygon fill="#A80036" points="14,195.7813,4,199.7813,14,203.7813,10,199.7813" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="8" x2="158" y1="199.7813" y2="199.7813"/><text fill="#000000" font-family="Menlo" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="71" x="20" y="194.7153">trueを返す</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="6" x2="344" y1="208.7813" y2="208.7813"/><polygon fill="#A80036" points="14,239.4805,4,243.4805,14,247.4805,10,243.4805" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="8" x2="163" y1="243.4805" y2="243.4805"/><text fill="#000000" font-family="Menlo" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="130" x="20" y="238.4146">ホームにリダイレクト</text><path d="M174,214.7813 L174,254.7813 L325,254.7813 L325,224.7813 L315,214.7813 L174,214.7813 " fill="#FBFB77" filter="url(#f160ce2bae16sj)" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M315,214.7813 L315,224.7813 L325,224.7813 L315,214.7813 " fill="#FBFB77" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Menlo" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="130" x="180" y="231.8481">「権限がありません」</text><text fill="#000000" font-family="Menlo" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="104" x="180" y="246.981">フラッシュを表示</text><!--MD5=[a138cee6a2617280d50220c584a7fe1d]
+@startuml
+skinparam defaultFontName Menlo
+skinparam backgroundColor #FFFFFE
+
+title 管理者確認!
+
+[-> User: 管理者か？
+activate User
+
+User -> User: ログインユーザーが管理者か確認
+
+alt ログイン状態
+  [<- - User: trueを返す
+else
+  [<- - User: ホームにリダイレクト
+  note bottom: 「権限がありません」\nフラッシュを表示
+  deactivate User
+end
+@enduml
+
+PlantUML version 1.2020.12(Sat Jun 06 19:54:15 JST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: ja
+Country: JP
+--></g></svg>

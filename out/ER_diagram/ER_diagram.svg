@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="353px" preserveAspectRatio="none" style="width:849px;height:353px;background:#FFFFFE;" version="1.1" viewBox="0 0 849 353" width="849px" zoomAndPan="magnify"><defs><filter height="300%" id="f1iftxdsbayhrk" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[837b1fc72d8341e8f1729047a81527d1]
+cluster RDS--><polygon fill="#FFFFFE" filter="url(#f1iftxdsbayhrk)" points="16,6,46,6,53,28.2969,535,28.2969,535,341,16,341,16,6" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="16" x2="53" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="Menlo" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="24" x="20" y="20.9951">RDS</text><!--MD5=[4c4d9d964ed89246c6e0e353656dc608]
+cluster DynamoDB--><polygon fill="#FFFFFE" filter="url(#f1iftxdsbayhrk)" points="559,191,629,191,636,213.2969,827,213.2969,827,328,559,328,559,191" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="559" x2="636" y1="213.2969" y2="213.2969"/><text fill="#000000" font-family="Menlo" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="64" x="563" y="205.9951">DynamoDB</text><!--MD5=[8457b8eeb6a36ad430b5159bc07dce68]
+class messages--><rect fill="#FEFECE" filter="url(#f1iftxdsbayhrk)" height="99.2188" id="messages" style="stroke: #A80036; stroke-width: 1.5;" width="180" x="32" y="47.5"/><ellipse cx="89.75" cy="63.5" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M93.3643,70 L85.6445,70 L85.6445,57.6069 L93.3643,57.6069 L93.3643,59.7651 L88.0933,59.7651 L88.0933,62.438 L92.8662,62.438 L92.8662,64.5962 L88.0933,64.5962 L88.0933,67.8418 L93.3643,67.8418 Z "/><text fill="#000000" font-family="Menlo" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="56" x="110.25" y="67.6543">messages</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="33" x2="211" y1="79.5" y2="79.5"/><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="112" x="38" y="93.7104">id: integer (PK)</text><line style="stroke: #A80036; stroke-width: 1.0;" x1="33" x2="211" y1="100.3047" y2="100.3047"/><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="91" x="38" y="114.5151">title: string</text><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="161" x="38" y="127.3198">deliveries_at: datetime</text><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="168" x="38" y="140.1245">delivery_status: integer</text><!--MD5=[8413f8248b2da7966d2de021109ec289]
+class users--><rect fill="#FEFECE" filter="url(#f1iftxdsbayhrk)" height="112.0234" id="users" style="stroke: #A80036; stroke-width: 1.5;" width="271" x="247.5" y="41"/><ellipse cx="361.25" cy="57" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M364.8643,63.5 L357.1445,63.5 L357.1445,51.1069 L364.8643,51.1069 L364.8643,53.2651 L359.5933,53.2651 L359.5933,55.938 L364.3662,55.938 L364.3662,58.0962 L359.5933,58.0962 L359.5933,61.3418 L364.8643,61.3418 Z "/><text fill="#000000" font-family="Menlo" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="35" x="381.75" y="61.1543">users</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="248.5" x2="517.5" y1="73" y2="73"/><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="112" x="253.5" y="87.2104">id: integer (PK)</text><line style="stroke: #A80036; stroke-width: 1.0;" x1="248.5" x2="517.5" y1="93.8047" y2="93.8047"/><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="112" x="253.5" y="108.0151">nickname: string</text><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="91" x="253.5" y="120.8198">email: string</text><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="161" x="253.5" y="133.6245">password_digest: string</text><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="259" x="253.5" y="146.4292">message_reception_permission: boolean</text><!--MD5=[85712b7c4c3e56609a1c3bf83b652e29]
+class message_contents--><rect fill="#FEFECE" filter="url(#f1iftxdsbayhrk)" height="112.0234" id="message_contents" style="stroke: #A80036; stroke-width: 1.5;" width="180" x="32" y="213"/><ellipse cx="63.2" cy="229" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M66.8143,235.5 L59.0945,235.5 L59.0945,223.1069 L66.8143,223.1069 L66.8143,225.2651 L61.5433,225.2651 L61.5433,227.938 L66.3162,227.938 L66.3162,230.0962 L61.5433,230.0962 L61.5433,233.3418 L66.8143,233.3418 Z "/><text fill="#000000" font-family="Menlo" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="112" x="80.8" y="233.1543">message_contents</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="33" x2="211" y1="245" y2="245"/><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="112" x="38" y="259.2104">id: integer (PK)</text><line style="stroke: #A80036; stroke-width: 1.0;" x1="33" x2="211" y1="265.8047" y2="265.8047"/><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="168" x="38" y="280.0151">message_id: integer (FK)</text><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="147" x="38" y="292.8198">content_type: integer</text><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="91" x="38" y="305.6245">content: text</text><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="119" x="38" y="318.4292">thumbnail: string</text><!--MD5=[8e86e482264c7afe040c56983d2719b4]
+class user_message_tasks--><rect fill="#FEFECE" filter="url(#f1iftxdsbayhrk)" height="112.0234" id="user_message_tasks" style="stroke: #A80036; stroke-width: 1.5;" width="180" x="247" y="213"/><ellipse cx="271.9" cy="229" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M275.5143,235.5 L267.7945,235.5 L267.7945,223.1069 L275.5143,223.1069 L275.5143,225.2651 L270.2433,225.2651 L270.2433,227.938 L275.0162,227.938 L275.0162,230.0962 L270.2433,230.0962 L270.2433,233.3418 L275.5143,233.3418 Z "/><text fill="#000000" font-family="Menlo" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="126" x="288.1" y="233.1543">user_message_tasks</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="248" x2="426" y1="245" y2="245"/><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="112" x="253" y="259.2104">id: integer (PK)</text><line style="stroke: #A80036; stroke-width: 1.0;" x1="248" x2="426" y1="265.8047" y2="265.8047"/><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="168" x="253" y="280.0151">message_id: integer (FK)</text><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="154" x="253" y="292.8198">first_user_id: integer</text><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="147" x="253" y="305.6245">last_user_id: integer</text><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="168" x="253" y="318.4292">delivery_status: integer</text><!--MD5=[d97429257d7fa0520970f7aa0f161a4c]
+class user_messages--><rect fill="#FEFECE" filter="url(#f1iftxdsbayhrk)" height="86.4141" id="user_messages" style="stroke: #A80036; stroke-width: 1.5;" width="236" x="575" y="226"/><ellipse cx="643.25" cy="242" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M646.8643,248.5 L639.1445,248.5 L639.1445,236.1069 L646.8643,236.1069 L646.8643,238.2651 L641.5933,238.2651 L641.5933,240.938 L646.3662,240.938 L646.3662,243.0962 L641.5933,243.0962 L641.5933,246.3418 L646.8643,246.3418 Z "/><text fill="#000000" font-family="Menlo" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="91" x="663.75" y="246.1543">user_messages</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="576" x2="810" y1="258" y2="258"/><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="224" x="581" y="272.2104">user_id: integer (Partition Key)</text><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="210" x="581" y="285.0151">recived_at: integer (Sort Key)</text><line style="stroke: #A80036; stroke-width: 1.0;" x1="576" x2="810" y1="291.6094" y2="291.6094"/><text fill="#000000" font-family="Menlo" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="70" x="581" y="305.8198">message_id</text><!--MD5=[3132f933879d873f01872a836ce8a176]
+link users to user_messages--><path d="M483.65,153.19 C524.09,175.37 570.19,200.65 608.81,221.83 " fill="none" id="users-&gt;user_messages" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="608.92" x2="619.7848" y1="221.8852" y2="225.74"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="608.92" x2="612.0752" y1="221.8852" y2="225.74"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="608.92" x2="615.93" y1="221.8852" y2="225.74"/><!--MD5=[01c7fe8fd552612df0347aa793adbc46]
+link messages to user_messages--><path d="M211.12,146.53 C217.41,148.97 223.74,151.17 230,153 C360.73,191.24 404.71,143.29 535,183 C564.69,192.05 595.2,206.93 621.39,221.73 " fill="none" id="messages-&gt;user_messages" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="621.722" x2="632.6429" y1="221.9171" y2="225.9"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="621.722" x2="624.6771" y1="221.9171" y2="225.9"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="621.722" x2="628.66" y1="221.9171" y2="225.9"/><!--MD5=[a2c9d3f271e9ce4d10450ed24167005c]
+link messages to message_contents--><path d="M122,146.72 C122,164.83 122,185.65 122,204.87 " fill="none" id="messages-&gt;message_contents" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="122" x2="130" y1="205" y2="213"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="122" x2="114" y1="205" y2="213"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="122" x2="122" y1="205" y2="213"/><!--MD5=[fad50068b651f61eb0cc2b5c72afe6c9]
+link messages to user_message_tasks--><path d="M183.61,146.72 C207.75,165.8 235.68,187.89 261.05,207.95 " fill="none" id="messages-&gt;user_message_tasks" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="261.1639" x2="272.4009" y1="208.0391" y2="213"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="261.1639" x2="262.4791" y1="208.0391" y2="213"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="261.1639" x2="267.44" y1="208.0391" y2="213"/><!--MD5=[f7a1a2eb36a44f469f205889c9de50bd]
+@startuml
+skinparam defaultFontName Menlo
+skinparam backgroundColor #FFFFFE
+
+package RDS {
+  entity messages {
+    id: integer (PK)
+    - -
+    title: string
+    deliveries_at: datetime
+    delivery_status: integer
+  }
+
+  entity users {
+    id: integer (PK)
+    - -
+    nickname: string
+    email: string
+    password_digest: string
+    message_reception_permission: boolean
+  }
+
+  entity message_contents {
+    id: integer (PK)
+    - -
+    message_id: integer (FK)
+    content_type: integer
+    content: text
+    thumbnail: string
+  }
+
+  entity user_message_tasks {
+    id: integer (PK)
+    - -
+    message_id: integer (FK)
+    first_user_id: integer
+    last_user_id: integer
+    delivery_status: integer
+  }
+}
+
+package DynamoDB {
+  entity user_messages {
+    user_id: integer (Partition Key)
+    recived_at: integer (Sort Key)
+    - -
+    message_id
+  }
+}
+
+
+users -down-{ user_messages
+messages -down-{ user_messages
+messages -down-{ message_contents
+messages -down-{ user_message_tasks
+@enduml
+
+PlantUML version 1.2020.12(Sat Jun 06 19:54:15 JST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: ja
+Country: JP
+--></g></svg>
